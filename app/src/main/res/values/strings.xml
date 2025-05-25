@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Drop Me</string>
+    <string name="welcome">Welcome to Drop Me</string>
+    <string name="wel_text">Find buses, track routes, and plan your journey with ease.</string>
+    <string name="onb1">Search a Bus...</string>
+    <string name="onb1_text">Search for buses heading to your desired location quickly and easily.</string>
+    <string name="onb2">Real-Time Tracking...</string>
+    <string name="onb2_text">Track your bus in real-time! See its live location on the map.</string>
+    <string name="onb3">Booking Seats...</string>
+    <string name="onb3_text">"Book your seat in advance! Secure a comfortable spot on your bus."</string>
+    <string name="login">Hi,\nPlease Login</string>
+    <string name="email">Email</string>
+    <string name="entemail">Enter your Email</string>
+    <string name="pwd">Password</string>
+    <string name="epwd">Enter Password</string>
+    <string name="fpwd">If you forget password ?</string>
+    <string name="lg">Login</string>
+    <string name="sg">Sign Up</string>
+    <string name="wsg">Hi,\nCreate Account</string>
+    <string name="un">User Name</string>
+    <string name="eun">Enter User Name</string>
+    <string name="cpwd">Confirm Password</string>
+    <string name="cfpwd">Enter Password Again</string>
+    <string name="home">Home</string>
+    <string name="wherenow">Where You Want To Get The Bus (From)</string>
+    <string name="fm">From</string>
+    <string name="wheredrop">Where You Want To Drop (To)</string>
+    <string name="to">To</string>
+    <string name="sd">Set Date</string>
+    <string name="d">Date</string>
+    <string name="stime">Set Time</string>
+    <string name="time">Time</string>
+    <string name="search">Search</string>
+    <string name="AB">Available \nBuses</string>
+    <string name="see_more">See more</string>
+    <string name="pndbus">17 (ND - 7845)\nPanadura -> Kandy\nDeparture - 10.35 am\nArrive - 14.30 pm</string>
+    <string name="pkbus">17 (NC - 6314)\nPanadura -> Kurunegala\nDeparture - 10.55 am\nArrive - 14.40 pm</string>
+    <string name="pgbus">17 (NB - 1452)\nPanadura -> Gampaha\nDeparture - 10.15 am\nArrive - 12.30 pm</string>
+    <string name="bs">Booking \nSeats</string>
+    <string name="near">(17)- NC - 6314\n1750 LKR (per a seat)\nClose in 1h 22 min\n3 seats free</string>
+    <string name="edate">Enter The Date</string>
+    <string name="hms">How Many Seats</string>
+    <string name="book">Book</string>
+    <string name="vd">View \nDetails</string>
+    <string name="pk">17- NC - 6314\nPanadura - Kurunegala</string>
+    <string name="min">35 min</string>
+    <string name="tyl">To Your Location</string>
+    <string name="seats">seats</string>
+    <string name="route">Route</string>
+    <string name="tracking">Tracking</string>
+    <string name="bh">D.S.Gunasekara Ltd\n\nBilled Date :05/10/2024\nRoute :Colombo - Jaffna\nAmount :2850 LKR</string>
+    <string name="bh2">NCG Express\n\nBilled Date :08/02/2025\nRoute :Colombo - Kandy\nAmount :1730 LKR</string>
+    <string name="LT">Live\nTracking</string>
+    <string name="ifnotify">If you want to get notification add your current location</string>
+    <string name="ocl">On  Current Location</string>
+    <string name="noti">Notifications</string>
+    <string name="not1">You have successfully booked ND - 4875 seat
+no 02 Malabe to Kurunegala for 03/05. Show this message and get your seat.Thank you.\n
+
+NCG Express                                                06.08</string>
+    <string name="not2">You have successfully booked ND - 4875 seat
+no 02 Malabe to Jaffna for 03/05. Show this message and get your seat.Thank you.\n
+
+NCG Express                                                16.08</string>
+    <string name="pay">Payments</string>
+    <string name="p1">Your seat number is 3 and please show the notification to the bus conducter and get your seat. This is a secure payment approved by sl government</string>
+    <string name="price">1750 LKR</string>
+    <string name="cansel">Cansel</string>
+    <string name="paymnt">Pay Now</string>
+    <string name="rd">Route \nDetails</string>
+    <string name="rd1">(17) - NC - 6314\nPanadura - Kurunegala</string>
+    <string name="r1">Panadura</string>
+    <string name="r2">Moratuwa</string>
+    <string name="r3">Dehiwala</string>
+    <string name="r4">Nugegoda</string>
+    <string name="r5">Baththaramulla</string>
+    <string name="mlb">Malabe</string>
+    <string name="sliit">SLIIT</string>
+    <string name="kdw">Kaduwela</string>
+    <string name="blm">Belummahara</string>
+    <string name="ntt">Nittambuwa</string>
+    <string name="py">Payments</string>
+    <string name="set">Settings</string>
+
+</resources>
